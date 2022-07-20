@@ -2,7 +2,7 @@
 
 Hello users
 
-This is PHP OOP (Object oriented Programing) full course source code with OOP crud and pagination programe.
+This is PHP OOP (Object oriented Programing) full course source code with OOP crud and pagination.
 
 Please create Databases and tables before testing crud programe.
 
